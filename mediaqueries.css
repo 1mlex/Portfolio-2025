@@ -16,9 +16,9 @@
 
     .home .home-content p{
         font-size: 1rem;
-        font-size: clamp(1rem,0.7179487179487178rem + 5.47008547008547vw,2rem);
+        font-size: clamp(0.5rem,0.7179487179487178rem + 5.47008547008547vw,1.5rem);
         padding: 1rem;
-        line-height: 1.5;
+        line-height: 1;
     }
     
 .home-img img{
