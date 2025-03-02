@@ -8,7 +8,7 @@
         height: 100%;
         width: 100%;
        flex-direction: column; 
-       padding-bottom: clamp(2rem,0.7179487179487178rem + 5.47008547008547vw,10rem);
+       padding-bottom: clamp(8rem,0.7179487179487178rem + 5.47008547008547vw,20rem);
      }
   
     .home .home-content h1{
